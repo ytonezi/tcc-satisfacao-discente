@@ -1,7 +1,7 @@
 streamlit
 pandas
 nltk
-googletrans==4.0.0-rc1
+googletrans==3.1.0a0
 httpx==0.13.3
 wordcloud
 matplotlib
